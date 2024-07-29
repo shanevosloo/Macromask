@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>MacroMask</id>
+    <version>1.0.0</version>
+    <authors>MacroMask</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0-windows7.0">
+        <dependency id="Tesseract" version="5.2.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net6.0-windows7.0">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WindowsForms" />
+      </group>
+    </frameworkReferences>
+    <contentFiles>
+      <files include="any/net6.0-windows7.0/254917_anonymous-guy-fawkes-mask-clipart-png-download.ico" buildAction="Content" />
+    </contentFiles>
+  </metadata>
+  <files>
+    <file src="C:\Users\Shane\source\repos\MacroMask\MacroMask\build\Debug\net6.0-windows\MacroMask.runtimeconfig.json" target="lib\net6.0-windows7.0\MacroMask.runtimeconfig.json" />
+    <file src="C:\Users\Shane\source\repos\MacroMask\MacroMask\build\Debug\net6.0-windows\MacroMask.dll" target="lib\net6.0-windows7.0\MacroMask.dll" />
+    <file src="C:\Users\Shane\source\repos\MacroMask\MacroMask\254917_anonymous-guy-fawkes-mask-clipart-png-download.ico" target="content\254917_anonymous-guy-fawkes-mask-clipart-png-download.ico" />
+    <file src="C:\Users\Shane\source\repos\MacroMask\MacroMask\254917_anonymous-guy-fawkes-mask-clipart-png-download.ico" target="contentFiles\any\net6.0-windows7.0\254917_anonymous-guy-fawkes-mask-clipart-png-download.ico" />
+  </files>
+</package>

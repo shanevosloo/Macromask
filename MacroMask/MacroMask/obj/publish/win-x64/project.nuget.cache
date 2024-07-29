@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "9YnEd7X88IBJnG6X+YpgNRev7IRC4p6FwZpUNzA5sdwrzVBFopiEFWKA1og7SxsSgZUAKHW49uCC+f5omJliUA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Shane\\source\\repos\\MacroMask\\MacroMask\\MacroMask.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Shane\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512",
+    "C:\\Users\\Shane\\.nuget\\packages\\tesseract\\5.2.0\\tesseract.5.2.0.nupkg.sha512",
+    "C:\\Users\\Shane\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\6.0.20\\microsoft.netcore.app.runtime.win-x64.6.0.20.nupkg.sha512",
+    "C:\\Users\\Shane\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\6.0.20\\microsoft.windowsdesktop.app.runtime.win-x64.6.0.20.nupkg.sha512",
+    "C:\\Users\\Shane\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\6.0.20\\microsoft.aspnetcore.app.runtime.win-x64.6.0.20.nupkg.sha512"
+  ],
+  "logs": []
+}
