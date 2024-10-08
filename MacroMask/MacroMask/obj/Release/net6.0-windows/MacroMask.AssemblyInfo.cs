@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MacroMask")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f1247203a37978f3041b01ca0d5064d03d46d528")]
 [assembly: System.Reflection.AssemblyProductAttribute("MacroMask")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MacroMask")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

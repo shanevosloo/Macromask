@@ -8,7 +8,6 @@ C:\Users\Shane\source\repos\MacroMask\MacroMask\build\Release\net6.0-windows\Mac
 C:\Users\Shane\source\repos\MacroMask\MacroMask\build\Release\net6.0-windows\MacroMask.runtimeconfig.json
 C:\Users\Shane\source\repos\MacroMask\MacroMask\build\Release\net6.0-windows\MacroMask.dll
 C:\Users\Shane\source\repos\MacroMask\MacroMask\build\Release\net6.0-windows\MacroMask.pdb
-C:\Users\Shane\source\repos\MacroMask\MacroMask\build\Release\net6.0-windows\Tesseract.dll
 C:\Users\Shane\source\repos\MacroMask\MacroMask\obj\Release\net6.0-windows\MacroMask.csproj.AssemblyReference.cache
 C:\Users\Shane\source\repos\MacroMask\MacroMask\obj\Release\net6.0-windows\MacroMask.AreaCapture.resources
 C:\Users\Shane\source\repos\MacroMask\MacroMask\obj\Release\net6.0-windows\MacroMask.MainMaskForm.resources
@@ -23,3 +22,18 @@ C:\Users\Shane\source\repos\MacroMask\MacroMask\obj\Release\net6.0-windows\refin
 C:\Users\Shane\source\repos\MacroMask\MacroMask\obj\Release\net6.0-windows\MacroMask.pdb
 C:\Users\Shane\source\repos\MacroMask\MacroMask\obj\Release\net6.0-windows\MacroMask.genruntimeconfig.cache
 C:\Users\Shane\source\repos\MacroMask\MacroMask\obj\Release\net6.0-windows\ref\MacroMask.dll
+C:\Users\Shane\Documents\GitHub\Macromask\MacroMask\MacroMask\obj\Release\net6.0-windows\MacroMask.csproj.AssemblyReference.cache
+C:\Users\Shane\Documents\GitHub\Macromask\MacroMask\MacroMask\obj\Release\net6.0-windows\MacroMask.AreaCapture.resources
+C:\Users\Shane\Documents\GitHub\Macromask\MacroMask\MacroMask\obj\Release\net6.0-windows\MacroMask.MainMaskForm.resources
+C:\Users\Shane\Documents\GitHub\Macromask\MacroMask\MacroMask\obj\Release\net6.0-windows\MacroMask.csproj.GenerateResource.cache
+C:\Users\Shane\Documents\GitHub\Macromask\MacroMask\MacroMask\obj\Release\net6.0-windows\MacroMask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shane\Documents\GitHub\Macromask\MacroMask\MacroMask\obj\Release\net6.0-windows\MacroMask.AssemblyInfoInputs.cache
+C:\Users\Shane\Documents\GitHub\Macromask\MacroMask\MacroMask\obj\Release\net6.0-windows\MacroMask.AssemblyInfo.cs
+C:\Users\Shane\Documents\GitHub\Macromask\MacroMask\MacroMask\obj\Release\net6.0-windows\MacroMask.csproj.CoreCompileInputs.cache
+C:\Users\Shane\Documents\GitHub\Macromask\MacroMask\MacroMask\obj\Release\net6.0-windows\MacroMask.sourcelink.json
+C:\Users\Shane\Documents\GitHub\Macromask\MacroMask\MacroMask\obj\Release\net6.0-windows\MacroMask.csproj.Up2Date
+C:\Users\Shane\Documents\GitHub\Macromask\MacroMask\MacroMask\obj\Release\net6.0-windows\MacroMask.dll
+C:\Users\Shane\Documents\GitHub\Macromask\MacroMask\MacroMask\obj\Release\net6.0-windows\refint\MacroMask.dll
+C:\Users\Shane\Documents\GitHub\Macromask\MacroMask\MacroMask\obj\Release\net6.0-windows\MacroMask.pdb
+C:\Users\Shane\Documents\GitHub\Macromask\MacroMask\MacroMask\obj\Release\net6.0-windows\MacroMask.genruntimeconfig.cache
+C:\Users\Shane\Documents\GitHub\Macromask\MacroMask\MacroMask\obj\Release\net6.0-windows\ref\MacroMask.dll

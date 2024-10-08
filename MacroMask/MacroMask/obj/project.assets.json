@@ -119,11 +119,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Shane\\source\\repos\\MacroMask\\MacroMask\\MacroMask.csproj",
+      "projectUniqueName": "C:\\Users\\Shane\\Documents\\GitHub\\Macromask\\MacroMask\\MacroMask\\MacroMask.csproj",
       "projectName": "MacroMask",
-      "projectPath": "C:\\Users\\Shane\\source\\repos\\MacroMask\\MacroMask\\MacroMask.csproj",
+      "projectPath": "C:\\Users\\Shane\\Documents\\GitHub\\Macromask\\MacroMask\\MacroMask\\MacroMask.csproj",
       "packagesPath": "C:\\Users\\Shane\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Shane\\source\\repos\\MacroMask\\MacroMask\\obj\\",
+      "outputPath": "C:\\Users\\Shane\\Documents\\GitHub\\Macromask\\MacroMask\\MacroMask\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Shane\\AppData\\Roaming\\NuGet\\NuGet.Config",

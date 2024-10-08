@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "07P/PHjihaY=",
+  "dgSpecHash": "sIT9BRyruMA=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Shane\\source\\repos\\MacroMask\\MacroMask\\MacroMask.csproj",
+  "projectFilePath": "C:\\Users\\Shane\\Documents\\GitHub\\Macromask\\MacroMask\\MacroMask\\MacroMask.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Shane\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512",
     "C:\\Users\\Shane\\.nuget\\packages\\tesseract\\5.2.0\\tesseract.5.2.0.nupkg.sha512"
