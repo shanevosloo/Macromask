@@ -1,0 +1,3 @@
+0|0|0|0|N/A||0|0|Mouse Move|
+434|235|532|311|N/A||0|0|Mouse Move|
+0|0|0|0|N/A||0|0|Mouse Move|

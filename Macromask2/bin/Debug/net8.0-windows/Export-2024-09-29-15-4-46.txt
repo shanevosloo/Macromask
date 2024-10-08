@@ -1,0 +1,3 @@
+378|254|411|272|N/A||200|300|Mouse Move|
+513|367|663|461|Image Search||0|0|Mouse Move|
+0|0|0|0|N/A||0|0|Mouse Move|
